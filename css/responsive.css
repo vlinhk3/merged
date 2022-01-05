@@ -1,0 +1,228 @@
+@media screen and (max-width: 1198px) {
+    .section {
+        padding: 48px 0;
+    }
+    .carousel__info h3 {
+        font-size: 40px;
+    }
+    .contactMege__content h3 {
+        font-size: 36px;
+    }
+    .heading p {
+        font-size: 15px;
+    }
+    .countMerge .heading h3 {
+        font-size: 40px;
+    }
+    .serviceMerge {
+        padding: 80px 40px;
+    }
+    .aboutpageAbout {
+        padding: 48px 20px;
+    }
+    .teampageAbout__content {
+        /* margin: 0 24px; */
+        width: 100%;
+    }
+    .header__top .header__social i {
+        margin: 0 !important; 
+    }
+   
+    
+}
+@media screen and (max-width: 991.98px) {
+    .pagecontact__input__wrapper input {
+        width: 100% !important;
+    }
+   .pagecontact__input__wrapper input{
+    width: 10px;
+   }
+   .pagecontact__input input:first-child, .pagecontact__input input:nth-child(2) {
+       width: 100%;
+   }
+    .carousel__info h3 {
+        font-size: 35.8px;
+    }
+    .pagecontact__input__wrapper input {
+        width: 100%;
+    }
+    .navbar {
+        padding: 0 30px;
+       width: 90%;
+       margin: 0 auto;
+    }
+    .navbar-nav {
+        background-color: #000;
+        padding: 16px;
+    }
+    .navbar-nav .nav-item {
+        margin: 10px 0;
+    }
+    .carousel__info h3 {
+        letter-spacing: 1px;
+        margin-bottom: 16px;
+    }
+    .carousel__info {
+        padding-top: 168px;
+    }
+    .carouselMerge, .carousel__contain {
+        min-height: 560px;
+    }
+    .owl-theme .owl-nav.disabled + .owl-dots  {
+        padding-bottom: 50px;
+    }
+    .getMerge .heading h3 {
+        font-size: 43.2px;
+    }
+    .getMerge .row {
+        margin: 0 21.5px;
+    }
+    .getMerge__content h3 {
+        font-size: 19px;
+    }
+    .getMerge__content p {
+        font-size: 14px;
+    }
+    .contactMege__content h3 {
+        font-size: 30px;
+        letter-spacing: 1px;
+    }
+    .heading__count {
+        font-size: 43.2px;
+        width: 90%;
+    }
+    .countMerge__content h2 {
+        font-size: 44.8px;
+    }
+    .serviceMerge .heading h3 {
+        font-size: 43.2px;
+    }
+    .service__col {
+        padding: 24px;
+    }
+    .service__col h3 {
+        font-size: 20px;
+    }
+    .service__col p {
+        font-size: 16px;
+    }
+    .heading h3 {
+        font-size: 43.2px;
+    }
+}
+@media screen and (max-width: 767.98px) {
+    .map__content iframe {
+        width: 90%;
+    }
+    .carouselMerge, .carousel__contain {
+        min-height: 455px;
+        overflow: hidden;
+    }
+    .header__top .header__social i {
+        margin-right: 0;
+    }
+    .carousel__info {
+        padding-top: 88px;
+    }
+    .carousel__info h3 {
+        font-size: 25.6px;
+    }
+    .carousel__info p {
+        font-size: 15px;
+    }
+    .owl-theme .owl-nav.disabled + .owl-dots {
+        padding-bottom: 20px;
+    }
+    .contactMerge {
+        padding: 64px 0;
+    }
+    .contactMege__content {
+        display: block !important;
+    }
+    .contactMege__content h3 {
+        font-size: 29px;
+    }
+    .btn.btn2.btn--edit {
+        margin-top: 24px;
+        text-align: center;
+        
+    }
+    .countMerge__content h2 {
+        font-size: 33.8px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .button.mb-0 {
+        text-align: center;
+    }
+    .getMerge__content {
+        margin-top: 32px;
+    }
+    .getMerge__content--border {
+        border: none;
+    }
+    .contactMege__content h3 {
+        text-align: center;
+    }
+    .countMerge .heading h3 {
+        font-size: 34.5px;
+    }
+    .carousel__info h3 {
+        font-size: 18.2px;
+    }
+    .carousel__info p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+    .btn.btn1,  
+    .btn.btn2  {
+        font-size: 14px;
+        padding: 6px 15px;
+    }
+    .serviceMerge .heading h3 {
+        font-size: 36.8px;
+    }
+    .countMerge__content:nth-child(2) {
+        margin: 24px 0;
+    }
+    .countMerge__content h3 {
+        font-size: 12.8px;
+    }
+    .serviceMerge {
+        padding: 40px 20px;
+    }
+    .heading h3 {
+        font-size: 36.8px;
+    }
+    .footer__info {
+        overflow: hidden;
+    }
+}
+@media screen and (max-width: 567px) {
+    body {
+        overflow-x: hidden;
+    }
+    .footer__contain .row {
+        padding: 48px 20px 0;
+    }
+    footer {
+        padding: 48px 0 0;
+
+    }
+    .footer__content {
+    margin-top: 32px;
+    }
+    .footer__content input {
+        width: 100%;
+    }
+    .teampageAbout__content {
+        padding: 0 24px;
+        width: 100%;
+    }
+    .pageGallery__info {
+        width: 70%;
+    }
+    .pageGallery__info img {
+        width: 90%;
+    }
+}
